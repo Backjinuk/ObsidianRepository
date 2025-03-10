@@ -1,0 +1,251 @@
+{
+  "main": {
+    "id": "65530c63dcf8c97d",
+    "type": "split",
+    "children": [
+      {
+        "id": "fcadcc5cff476b3d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "857362187ac72ddd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "불변 객체.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "불변 객체"
+            }
+          },
+          {
+            "id": "9712f5997a225128",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "String 클래스.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "String 클래스"
+            }
+          },
+          {
+            "id": "fe0fe5a72f17f48f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "래퍼클래스.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "래퍼클래스"
+            }
+          },
+          {
+            "id": "86fb79efd03bbb55",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "열거형.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "열거형"
+            }
+          },
+          {
+            "id": "4424eb641aca8d41",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "중첩 클래스.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "중첩 클래스"
+            }
+          },
+          {
+            "id": "6abf55e55a24f460",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "- 지역 클래스 (캡처).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "- 지역 클래스 (캡처)"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9f770dd775453926",
+    "type": "split",
+    "children": [
+      {
+        "id": "c88865ba5562688d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2d8cb659915c30dc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
+            }
+          },
+          {
+            "id": "c428211cf1350882",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "검색"
+            }
+          },
+          {
+            "id": "9b67b69a3481aa6d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "북마크"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d5f7e5cd6cb0c2bd",
+    "type": "split",
+    "children": [
+      {
+        "id": "ee28998f798c95b8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8de3afc1e6f177ef",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "- 지역 클래스 (캡처).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "- 지역 클래스 (캡처) 의 백링크"
+            }
+          },
+          {
+            "id": "e1f83af1e35f68c4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "- 지역 클래스 (캡처).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "- 지역 클래스 (캡처) 의 나가는 링크"
+            }
+          },
+          {
+            "id": "e3787b300ece8850",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "태그"
+            }
+          },
+          {
+            "id": "405bf6a9b19631bf",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "- 지역 클래스 (캡처).md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "- 지역 클래스 (캡처) 의 개요"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:빠른 전환기 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "6abf55e55a24f460",
+  "lastOpenFiles": [
+    "중첩 클래스.md",
+    "- 지역 클래스 (캡처).md",
+    "열거형.md",
+    "래퍼클래스.md",
+    "String 클래스.md",
+    "불변 객체.md"
+  ]
+}
