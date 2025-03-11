@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "중첩 클래스.md",
+                "file": "Java/래퍼클래스.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "중첩 클래스"
+              "title": "래퍼클래스"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "d5f7e5cd6cb0c2bd",
@@ -183,12 +182,16 @@
   },
   "active": "41e0e16259e02f05",
   "lastOpenFiles": [
-    "익명 클래스.md",
-    "지역 클래스 (캡처).md",
-    "중첩 클래스.md",
-    "열거형.md",
-    "래퍼클래스.md",
-    "String 클래스.md",
-    "불변 객체.md"
+    "2025-03-11.md",
+    "Java/예외처리.md",
+    "ErrorCollcation",
+    "Java",
+    "Java/중첩 클래스.md",
+    "Java/익명 클래스.md",
+    "Java/지역 클래스 (캡처).md",
+    "Java/열거형.md",
+    "Java/래퍼클래스.md",
+    "Java/String 클래스.md",
+    "Java/불변 객체.md"
   ]
 }
