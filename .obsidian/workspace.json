@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "제네릭 컬렉션.md",
+                "file": "Java/Intermediate-2/제네릭 컬렉션.md",
                 "mode": "source",
                 "source": false
               },
@@ -209,20 +209,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dd3a086a9df934cd",
+  "active": "2d8cb659915c30dc",
   "lastOpenFiles": [
+    "Java/Intermediate-2",
+    "Java/Intermediate-1",
     "ErrorCollcation/NaverMapSdk 401 오류.md",
-    "제네릭 컬렉션.md",
-    "Java/래퍼클래스.md",
+    "Java/Intermediate-2/제네릭 컬렉션.md",
+    "Java/Intermediate-1/래퍼클래스.md",
     "2025-03-11.md",
-    "Java/예외처리.md",
+    "Java/Intermediate-1/예외처리.md",
     "ErrorCollcation",
     "Java",
-    "Java/중첩 클래스.md",
-    "Java/익명 클래스.md",
-    "Java/지역 클래스 (캡처).md",
-    "Java/열거형.md",
-    "Java/String 클래스.md",
-    "Java/불변 객체.md"
+    "Java/Intermediate-1/중첩 클래스.md",
+    "Java/Intermediate-1/익명 클래스.md",
+    "Java/Intermediate-1/지역 클래스 (캡처).md",
+    "Java/Intermediate-1/열거형.md",
+    "Java/Intermediate-1/String 클래스.md",
+    "Java/Intermediate-1/불변 객체.md"
   ]
 }
