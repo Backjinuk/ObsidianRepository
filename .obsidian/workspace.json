@@ -8,31 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "41e0e16259e02f05",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java/래퍼클래스.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "래퍼클래스"
-            }
-          },
-          {
             "id": "d7027a4a05f2b9dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ErrorCollcation/NaverMapSdk 401 오류.md",
+                "file": "Java/Intermediate-2/컬렉션 프레임워크/ArrayList.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "NaverMapSdk 401 오류"
+              "title": "ArrayList"
             }
           },
           {
@@ -41,16 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/Intermediate-2/제네릭 컬렉션.md",
+                "file": "Java/Intermediate-2/컬렉션 프레임워크/ArrayList.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "제네릭 컬렉션"
+              "title": "ArrayList"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -209,12 +194,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2d8cb659915c30dc",
+  "active": "d7027a4a05f2b9dc",
   "lastOpenFiles": [
+    "Java/Intermediate-2/컬렉션 프레임워크/컬렉션 프레임 워크.md",
+    "Java/Intermediate-2/제네릭 컬렉션.md",
+    "Java/Intermediate-2/컬렉션 프레임워크/ArrayList.md",
+    "ErrorCollcation/NaverMapSdk 401 오류.md",
+    "Java/Intermediate-2/컬렉션 프레임워크/Set.md",
+    "Java/Intermediate-2/컬렉션 프레임워크",
+    "Java/Intermediate-2/무제.md",
+    "Java/Intermediate-2/순회, 정렬, 전체정리.md",
+    "Java/Intermediate-2/컬렉션 프레임워크/Map, Stack, Queue.md",
+    "Java/Intermediate-2/컬렉션 프레임워크/HashSet.md",
+    "Java/Intermediate-2/컬렉션 프레임워크/해시(Hash).md",
+    "Java/Intermediate-2/컬렉션 프레임워크/List.md",
+    "Java/Intermediate-2/컬렉션 프레임워크/LinkedList.md",
     "Java/Intermediate-2",
     "Java/Intermediate-1",
-    "ErrorCollcation/NaverMapSdk 401 오류.md",
-    "Java/Intermediate-2/제네릭 컬렉션.md",
     "Java/Intermediate-1/래퍼클래스.md",
     "2025-03-11.md",
     "Java/Intermediate-1/예외처리.md",
