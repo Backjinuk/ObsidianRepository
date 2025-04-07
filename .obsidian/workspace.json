@@ -34,8 +34,19 @@
               "icon": "lucide-file",
               "title": "ArrayList"
             }
+          },
+          {
+            "id": "3bbbdd79c1cde6b3",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "새 탭"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -194,12 +205,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d7027a4a05f2b9dc",
+  "active": "3bbbdd79c1cde6b3",
   "lastOpenFiles": [
+    "Java/Intermediate-2/컬렉션 프레임워크/ArrayList.md",
     "Pasted image 20250404213223.png",
     "Java/Intermediate-2/컬렉션 프레임워크/컬렉션 프레임 워크.md",
     "Java/Intermediate-2/제네릭 컬렉션.md",
-    "Java/Intermediate-2/컬렉션 프레임워크/ArrayList.md",
     "ErrorCollcation/NaverMapSdk 401 오류.md",
     "Java/Intermediate-2/컬렉션 프레임워크/Set.md",
     "Java/Intermediate-2/컬렉션 프레임워크",
