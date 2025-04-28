@@ -13,15 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/Intermediate-2/컬렉션 프레임워크/List.md",
+                "file": "Java/Intermediate-2/컬렉션 프레임워크/ArrayList.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "List"
+              "title": "ArrayList"
+            }
+          },
+          {
+            "id": "e924f0169aa4bce0",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.10"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -180,8 +193,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3bbbdd79c1cde6b3",
+  "active": "e924f0169aa4bce0",
   "lastOpenFiles": [
+    "Java/Intermediate-2/컬렉션 프레임워크/해시(Hash).md",
+    "Java/Intermediate-2/컬렉션 프레임워크/ArrayList.md",
+    "Java/Intermediate-2/컬렉션 프레임워크/컬렉션 프레임 워크.md",
+    "Java/Intermediate-2/컬렉션 프레임워크/List.md",
     "Java/Intermediate-2/컬렉션 프레임워크/LinkedList.md",
     "Pasted image 20250408211046.png",
     "Pasted image 20250408211036.png",
@@ -189,11 +206,8 @@
     "Pasted image 20250408211004.png",
     "Pasted image 20250408201533.png",
     "Pasted image 20250408200508.png",
-    "Java/Intermediate-2/컬렉션 프레임워크/ArrayList.md",
     "Java/Intermediate-2/제네릭 컬렉션.md",
-    "Java/Intermediate-2/컬렉션 프레임워크/List.md",
     "Pasted image 20250404213223.png",
-    "Java/Intermediate-2/컬렉션 프레임워크/컬렉션 프레임 워크.md",
     "ErrorCollcation/NaverMapSdk 401 오류.md",
     "Java/Intermediate-2/컬렉션 프레임워크/Set.md",
     "Java/Intermediate-2/컬렉션 프레임워크",
@@ -201,7 +215,6 @@
     "Java/Intermediate-2/순회, 정렬, 전체정리.md",
     "Java/Intermediate-2/컬렉션 프레임워크/Map, Stack, Queue.md",
     "Java/Intermediate-2/컬렉션 프레임워크/HashSet.md",
-    "Java/Intermediate-2/컬렉션 프레임워크/해시(Hash).md",
     "Java/Intermediate-2",
     "Java/Intermediate-1",
     "Java/Intermediate-1/래퍼클래스.md",
